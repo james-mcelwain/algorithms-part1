@@ -1,0 +1,6 @@
+[package]
+name = "algorithms-part1"
+version = "0.1.0"
+authors = ["James McElwain <jmcelwain@gmail.com>"]
+
+[dependencies]
